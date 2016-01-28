@@ -1,0 +1,4 @@
+//删除文件
+node_modules
+.tmp
+.DS_Store
